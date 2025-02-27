@@ -61,7 +61,7 @@ Deployment: Vercel
 
 1. Clone the _repository_:
 
-git clone https://github.com/Parul-Byte/soulful-journeys-india.git
+git clone https://github.com/Parul-Byte/explorex.git
 
 
 2. Open *index.html* in a browser.
