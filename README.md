@@ -1,8 +1,8 @@
-# Soulful Journeys India
+# ExploreX
 
 ## 🌍 About the Project
 
-Soulful Journeys India is a modern and interactive travel website designed to help users explore breathtaking destinations across India. The platform offers a seamless experience with engaging animations, a user-friendly interface, and responsive design, making travel planning effortless and enjoyable.
+ExploreX is a modern and interactive travel website designed to help users explore breathtaking destinations across India. The platform offers a seamless experience with engaging animations, a user-friendly interface, and responsive design, making travel planning effortless and enjoyable.
 
 
 
